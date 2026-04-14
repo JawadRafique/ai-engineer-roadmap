@@ -1,0 +1,50 @@
+The best way to predict the future is to create it.|Peter Drucker|Leadership
+Simplicity is the ultimate sophistication.|Leonardo da Vinci|Design
+Talk is cheap. Show me the code.|Linus Torvalds|Technology
+The most important thing in communication is hearing what isn't said.|Peter Drucker|Business
+Life is a matter of choices, and every choice you make makes you.|John C. Maxwell|Mindset
+Code is like humor. When you have to explain it, it’s bad.|Cory House|Technology
+A green light is a sign that you're on the right track; it’s about flow and efficiency.|Unknown|Philosophy
+Management is doing things right; leadership is doing the right things.|Peter Drucker|Business
+It’s not at all that we have a short time to live, but that we waste a lot of it.|Seneca|Philosophy
+The only way to do great work is to love what you do.|Steve Jobs|Success
+Programs must be written for people to read, and only incidentally for machines to execute.|Harold Abelson|Technology
+Design is not just what it looks like and feels like. Design is how it works.|Steve Jobs|Design
+The goal is not to do business with everybody who needs what you have. The goal is to do business with people who believe what you believe.|Simon Sinek|Leadership
+Focus on being productive instead of busy.|Tim Ferriss|Mindset
+The best error message is the one that never appears.|Thomas Fuchs|Technology
+Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.|Antoine de Saint-Exupéry|Design
+Efficiency is doing better what is already being done.|Peter Drucker|Business
+The soul becomes dyed with the color of its thoughts.|Marcus Aurelius|Philosophy
+First, solve the problem. Then, write the code.|John Johnson|Technology
+Innovation distinguishes between a leader and a follower.|Steve Jobs|Leadership
+Everything should be made as simple as possible, but not simpler.|Albert Einstein|Design
+Your time is limited, so don't waste it living someone else's life.|Steve Jobs|Mindset
+Software is a great combination between artistry and engineering.|Bill Gates|Technology
+A leader is one who knows the way, goes the way, and shows the way.|John C. Maxwell|Leadership
+We are what we repeatedly do. Excellence, then, is not an act, but a habit.|Aristotle|Success
+Clean code always looks like it was written by someone who cares.|Robert C. Martin|Technology
+The secret of business is to know something that nobody else knows.|Aristotle Onassis|Business
+Do not stumble over something behind you.|Seneca|Mindset
+The advance of technology is based on making it fit in so that you don't really even notice it.|Bill Gates|Technology
+The art of being wise is the art of knowing what to overlook.|William James|Philosophy
+Measure what is measurable, and make measurable what is not so.|Galileo Galilei|Business
+Good design is obvious. Great design is transparent.|Joe Sparano|Design
+A wealth of information creates a poverty of attention.|Herbert A. Simon|Technology
+Lead from the back — and let others believe they are in front.|Nelson Mandela|Leadership
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.|Martin Fowler|Technology
+A man is but the product of his thoughts; what he thinks, he becomes.|Mahatma Gandhi|Mindset
+Content precedes design. Design in the absence of content is not design, it’s decoration.|Jeffrey Zeldman|Design
+Business opportunities are like buses, there’s always another one coming.|Richard Branson|Business
+Waste no more time arguing about what a good man should be. Be one.|Marcus Aurelius|Philosophy
+Software and cathedrals are much the same — first we build them, then we pray.|Sam Redwine|Technology
+The function of leadership is to produce more leaders, not more followers.|Ralph Nader|Leadership
+Sometimes it’s the journey that teaches you a lot about your destination.|Drake|Mindset
+Details are not the details. They make the design.|Charles Eames|Design
+In the middle of difficulty lies opportunity.|Albert Einstein|Success
+The computer was born to solve problems that did not exist before.|Bill Gates|Technology
+The most important tool you have is your own articulation and how you present an idea.|Unknown|Communication
+Quality is not an act, it is a habit.|Aristotle|Business
+Luck is what happens when preparation meets opportunity.|Seneca|Mindset
+The only real mistake is the one from which we learn nothing.|Henry Ford|Success
+The best way to predict your future is to create it.|Abraham Lincoln|Philosophy
