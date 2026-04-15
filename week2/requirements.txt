@@ -1,0 +1,6 @@
+streamlit
+langchain>=0.1.0
+chromadb
+ollama
+langchain-ollama
+langchain-classic

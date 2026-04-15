@@ -21,8 +21,10 @@ source .venv/bin/activate
 
 ### 2. Install required libraries
 
+You can install all dependencies at once:
+
 ```bash
-pip install fastapi chromadb uvicorn
+pip install -r requirements.txt
 ```
 
 ### 3. Start the server
