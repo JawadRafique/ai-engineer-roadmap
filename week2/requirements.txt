@@ -4,3 +4,6 @@ chromadb
 ollama
 langchain-ollama
 langchain-classic
+langchain-community
+wikipedia
+numexpr
