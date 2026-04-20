@@ -1,3 +1,15 @@
+## Example Output
+
+```
+Selected cuisine: Pakistani
+Generating restaurant name and menu for cuisine: Pakistani
+Generating restaurant name... verbose=False prompt=PromptTemplate(input_variables=['cuisine'], input_types={}, partial_variables={}, template='I want to open a restaurant for a {cuisine} cuisine. Respond only with a single creative restaurant name, no explanation, no list, just the name.') llm=OllamaLLM(model='llama3', base_url='http://localhost:11434') output_key='restaurant_name' output_parser=StrOutputParser() llm_kwargs={}
+Generating menu... verbose=False prompt=PromptTemplate(input_variables=['cuisine', 'restaurant_name'], input_types={}, partial_variables={}, template='Suggest 5 unique dishes for a {cuisine} restaurant named {restaurant_name}. Respond only with a comma-separated list of dish names, no explanation, no numbering, just the names.') llm=OllamaLLM(model='llama3', base_url='http://localhost:11434') output_key='menu' output_parser=StrOutputParser() llm_kwargs={}
+Generated restaurant name and menu: {'cuisine': 'Pakistani', 'restaurant_name': '"Karachi Khaana"', 'menu': 'Karachi Kaye Shwaray, Sajji Chicken, Haleem Nihari, Karahi Lamb, Malabar Fish Fry'}
+Generated response: {'cuisine': 'Pakistani', 'restaurant_name': '"Karachi Khaana"', 'menu': 'Karachi Kaye Shwaray, Sajji Chicken, Haleem Nihari, Karahi Lamb, Malabar Fish Fry'}
+```
+
+![Sample Output Screenshot](assets/output_restaurant_name_generator.png)
 
 ## Quickstart: Restaurant Name & Menu Generator
 
@@ -10,6 +22,9 @@ docker compose up -d
 docker exec ollama ollama pull llama3
 # Example for another model:
 # docker exec ollama ollama pull mistral
+
+# Run model 
+# docker exec ollama ollama run llama3
 ```
 
 You can use any Ollama-supported model based on your preference. Just update the model name in your code and pull the corresponding model as shown above.
